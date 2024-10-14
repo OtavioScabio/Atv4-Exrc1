@@ -1,3 +1,6 @@
+/*
+*@author: Otávio Gabriel Ribeiro Scabio - RA 1110482223043
+*/
 package com.example.atv4_exrc1;
 
 import android.os.Bundle;
